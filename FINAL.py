@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import google.generativeai as genai
 
 # ---------------- Gemini setup ----------------
-genai.configure(api_key=os.getenv("GEMINI_API_KEY", "AIzaSyAiePmF53EKVP021IdCJXvExoxE6ht3sv4"))
+genai.configure(api_key=os.getenv("GEMINI_API_KEY", "Your api key"))
 model = genai.GenerativeModel("gemini-1.5-flash")
 chat = model.start_chat(history=[])
 
@@ -485,4 +485,5 @@ def main():
                 st.info("Choose language & level, then click *Start Quiz* to begin.")
 
 if __name__ == "__main__":
+
     main()
