@@ -1,0 +1,211 @@
+[
+    {
+        "question": "CSS stands for:",
+        "options": [
+            "Computer Style Sheets",
+            "Cascading Style Sheets",
+            "Creative Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "answer": "Cascading Style Sheets",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which HTML tag is used to link an external CSS file?",
+        "options": [
+            "<css>",
+            "<style>",
+            "<link>",
+            "<script>"
+        ],
+        "answer": "<link>",
+        "topic": "Basics"
+    },
+    {
+        "question": "Where in HTML document is the correct place to refer to an external CSS file?",
+        "options": [
+            "Head Section",
+            "Body Section",
+            "End of document",
+            "Anywhere"
+        ],
+        "answer": "Head Section",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which symbol is used for ID selector in CSS?",
+        "options": [
+            ".",
+            "#",
+            "*",
+            "&"
+        ],
+        "answer": "#",
+        "topic": "Selectors"
+    },
+    {
+        "question": "Which symbol is used for class selector in CSS?",
+        "options": [
+            ".",
+            "#",
+            "*",
+            "$"
+        ],
+        "answer": ".",
+        "topic": "Selectors"
+    },
+    {
+        "question": "Which universal selector is used to select all elements?",
+        "options": [
+            "*",
+            "#",
+            ".",
+            "&"
+        ],
+        "answer": "*",
+        "topic": "Selectors"
+    },
+    {
+        "question": "Which CSS property is used to change text color?",
+        "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "style"
+        ],
+        "answer": "color",
+        "topic": "Properties"
+    },
+    {
+        "question": "Which property changes the background color of an element?",
+        "options": [
+            "bgcolor",
+            "style",
+            "background-color",
+            "color"
+        ],
+        "answer": "background-color",
+        "topic": "Properties"
+    },
+    {
+        "question": "To make text bold we use:",
+        "options": [
+            "font-weight:bold",
+            "text-bold",
+            "font:bold",
+            "weight:bold"
+        ],
+        "answer": "font-weight:bold",
+        "topic": "Properties"
+    },
+    {
+        "question": "Padding is:",
+        "options": [
+            "Space outside border",
+            "Space inside border",
+            "Same as margin",
+            "Text color"
+        ],
+        "answer": "Space inside border",
+        "topic": "Box Model"
+    },
+    {
+        "question": "Margin is:",
+        "options": [
+            "Space inside element",
+            "Space outside the border",
+            "Border thickness",
+            "None"
+        ],
+        "answer": "Space outside the border",
+        "topic": "Box Model"
+    },
+    {
+        "question": "Which property controls the type of box used for an element?",
+        "options": [
+            "position",
+            "display",
+            "float",
+            "align"
+        ],
+        "answer": "display",
+        "topic": "Layout"
+    },
+    {
+        "question": "Which CSS property is used to position elements relative to their normal position?",
+        "options": [
+            "absolute",
+            "fixed",
+            "relative",
+            "static"
+        ],
+        "answer": "relative",
+        "topic": "Layout"
+    },
+    {
+        "question": "Which property is used to make elements float beside each other?",
+        "options": [
+            "align",
+            "position",
+            "float",
+            "display"
+        ],
+        "answer": "float",
+        "topic": "Layout"
+    },
+    {
+        "question": "Which property changes the size of text?",
+        "options": [
+            "font-style",
+            "font-size",
+            "text-size",
+            "size"
+        ],
+        "answer": "font-size",
+        "topic": "Text"
+    },
+    {
+        "question": "Which CSS property adds space between letters?",
+        "options": [
+            "line-height",
+            "letter-spacing",
+            "word-spacing",
+            "spacing"
+        ],
+        "answer": "letter-spacing",
+        "topic": "Text"
+    },
+    {
+        "question": "Which is correct for making text italic?",
+        "options": [
+            "font-italic",
+            "font-style:italic",
+            "text-italic",
+            "style-italic"
+        ],
+        "answer": "font-style:italic",
+        "topic": "Properties"
+    },
+    {
+        "question": "Which property adds shadow to text?",
+        "options": [
+            "text-shadow",
+            "font-shadow",
+            "box-shadow",
+            "style-shadow"
+        ],
+        "answer": "text-shadow",
+        "topic": "Properties"
+    },
+    {
+        "question": "Which shorthand property can change margin on all four sides at once?",
+        "options": [
+            "margin-all",
+            "margin",
+            "padding",
+            "spacing"
+        ],
+        "answer": "margin",
+        "topic": "Box Model"
+    }
+]

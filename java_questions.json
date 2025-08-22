@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Which keyword is used to define a class in Java?",
+        "options": [
+            "function",
+            "class",
+            "struct",
+            "object"
+        ],
+        "answer": "class",
+        "topic": "Basics"
+    },
+    {
+        "question": "What is the file extension for Java files?",
+        "options": [
+            ".js",
+            ".class",
+            ".py",
+            ".java"
+        ],
+        "answer": ".java",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which method is the entry point of a Java program?",
+        "options": [
+            "start()",
+            "main()",
+            "run()",
+            "execute()"
+        ],
+        "answer": "main()",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which is a valid integer data type in Java?",
+        "options": [
+            "int",
+            "number",
+            "integer",
+            "decimal"
+        ],
+        "answer": "int",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which keyword is used to create constants in Java?",
+        "options": [
+            "const",
+            "final",
+            "static",
+            "constant"
+        ],
+        "answer": "final",
+        "topic": "Data Types"
+    },
+    {
+        "question": "What is the default value of a boolean in Java?",
+        "options": [
+            "true",
+            "false",
+            "0",
+            "null"
+        ],
+        "answer": "false",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which loop runs at least once even if condition is false?",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "foreach"
+        ],
+        "answer": "do-while",
+        "topic": "Loops"
+    },
+    {
+        "question": "Which keyword is used for decision making in Java?",
+        "options": [
+            "if",
+            "select",
+            "decide",
+            "switch"
+        ],
+        "answer": "if",
+        "topic": "Conditionals"
+    },
+    {
+        "question": "What is the correct way to declare an array in Java?",
+        "options": [
+            "int arr[];",
+            "arr int[];",
+            "array int;",
+            "int array;"
+        ],
+        "answer": "int arr[];",
+        "topic": "Arrays"
+    },
+    {
+        "question": "Arrays in Java are:",
+        "options": [
+            "Objects",
+            "Primitive types",
+            "Functions",
+            "Methods"
+        ],
+        "answer": "Objects",
+        "topic": "Arrays"
+    },
+    {
+        "question": "Which keyword is used to call parent class constructor?",
+        "options": [
+            "this",
+            "super",
+            "parent",
+            "base"
+        ],
+        "answer": "super",
+        "topic": "Methods"
+    },
+    {
+        "question": "Which of these is used to return a value from a method?",
+        "options": [
+            "return",
+            "get",
+            "send",
+            "exit"
+        ],
+        "answer": "return",
+        "topic": "Methods"
+    },
+    {
+        "question": "What is method overloading?",
+        "options": [
+            "Same method name, different parameters",
+            "Same return type",
+            "Two classes having same method",
+            "None"
+        ],
+        "answer": "Same method name, different parameters",
+        "topic": "Methods"
+    },
+    {
+        "question": "Which concept allows same function name in different classes?",
+        "options": [
+            "Inheritance",
+            "Polymorphism",
+            "Abstraction",
+            "Encapsulation"
+        ],
+        "answer": "Polymorphism",
+        "topic": "OOP"
+    },
+    {
+        "question": "Which access modifier makes a member visible only within its own class?",
+        "options": [
+            "public",
+            "private",
+            "protected",
+            "static"
+        ],
+        "answer": "private",
+        "topic": "OOP"
+    },
+    {
+        "question": "What is the process of acquiring properties of another class called?",
+        "options": [
+            "Abstraction",
+            "Encapsulation",
+            "Inheritance",
+            "Overloading"
+        ],
+        "answer": "Inheritance",
+        "topic": "OOP"
+    },
+    {
+        "question": "Which class cannot be instantiated?",
+        "options": [
+            "Abstract class",
+            "Normal class",
+            "Static class",
+            "Final class"
+        ],
+        "answer": "Abstract class",
+        "topic": "OOP"
+    },
+    {
+        "question": "What keyword is used to inherit a class?",
+        "options": [
+            "inherits",
+            "extends",
+            "super",
+            "implements"
+        ],
+        "answer": "extends",
+        "topic": "OOP"
+    },
+    {
+        "question": "What is encapsulation?",
+        "options": [
+            "Wrapping data & methods into one unit",
+            "Inheritance",
+            "Multiple methods",
+            "None"
+        ],
+        "answer": "Wrapping data & methods into one unit",
+        "topic": "OOP"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions?",
+        "options": [
+            "catch",
+            "error",
+            "throw",
+            "try"
+        ],
+        "answer": "try",
+        "topic": "OOP"
+    }
+]

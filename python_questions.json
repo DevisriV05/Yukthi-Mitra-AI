@@ -1,0 +1,244 @@
+[
+    {
+        "question": "Which keyword is used to start a Python program script?",
+        "options": [
+            "start",
+            "main",
+            "def",
+            "None of these"
+        ],
+        "answer": "None of these",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which symbol is used to comment a single line?",
+        "options": [
+            "//",
+            "#",
+            "/* */",
+            "--"
+        ],
+        "answer": "#",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which function is used to take input from the user?",
+        "options": [
+            "input()",
+            "scan()",
+            "read()",
+            "get()"
+        ],
+        "answer": "input()",
+        "topic": "Basics"
+    },
+    {
+        "question": "The output type of 3 / 2 in Python is:",
+        "options": [
+            "int",
+            "float",
+            "string",
+            "bool"
+        ],
+        "answer": "float",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which of the following is an immutable data type?",
+        "options": [
+            "list",
+            "set",
+            "dictionary",
+            "tuple"
+        ],
+        "answer": "tuple",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which keyword is used to define a dictionary?",
+        "options": [
+            "()",
+            "[]",
+            "{}",
+            "<>"
+        ],
+        "answer": "{}",
+        "topic": "Data Types"
+    },
+    {
+        "question": "What will be the output of 'Hello'[1]?",
+        "options": [
+            "H",
+            "e",
+            "l",
+            "o"
+        ],
+        "answer": "e",
+        "topic": "String"
+    },
+    {
+        "question": "Strings in Python are:",
+        "options": [
+            "Mutable",
+            "Immutable",
+            "Changeable",
+            "None"
+        ],
+        "answer": "Immutable",
+        "topic": "String"
+    },
+    {
+        "question": "Which method is used to add an item to the end of a list?",
+        "options": [
+            "add()",
+            "append()",
+            "push()",
+            "insert()"
+        ],
+        "answer": "append()",
+        "topic": "List"
+    },
+    {
+        "question": "What is the result of len([1, 2, 3])?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "Error"
+        ],
+        "answer": "3",
+        "topic": "List"
+    },
+    {
+        "question": "Tuples are defined using which brackets?",
+        "options": [
+            "()",
+            "[]",
+            "{}",
+            "<>"
+        ],
+        "answer": "()",
+        "topic": "Tuple"
+    },
+    {
+        "question": "Tuples are:",
+        "options": [
+            "Mutable",
+            "Immutable",
+            "Both",
+            "None"
+        ],
+        "answer": "Immutable",
+        "topic": "Tuple"
+    },
+    {
+        "question": "Which method removes all items from a set?",
+        "options": [
+            "clear()",
+            "delete()",
+            "remove()",
+            "empty()"
+        ],
+        "answer": "clear()",
+        "topic": "Set"
+    },
+    {
+        "question": "Which of the following does NOT allow duplicates?",
+        "options": [
+            "List",
+            "Tuple",
+            "Set",
+            "Dictionary"
+        ],
+        "answer": "Set",
+        "topic": "Set"
+    },
+    {
+        "question": "Dictionary in Python stores data in:",
+        "options": [
+            "Key-value pairs",
+            "Indexed elements",
+            "Single values",
+            "None"
+        ],
+        "answer": "Key-value pairs",
+        "topic": "Dictionary"
+    },
+    {
+        "question": "Which method is used to get all keys of a dictionary?",
+        "options": [
+            "items()",
+            "get()",
+            "keys()",
+            "values()"
+        ],
+        "answer": "keys()",
+        "topic": "Dictionary"
+    },
+    {
+        "question": "Which keyword is used to define a function?",
+        "options": [
+            "func",
+            "define",
+            "def",
+            "lambda"
+        ],
+        "answer": "def",
+        "topic": "Functions"
+    },
+    {
+        "question": "What is the correct way to call a function in Python?",
+        "options": [
+            "call funcName()",
+            "funcName()",
+            "run funcName",
+            "execute funcName"
+        ],
+        "answer": "funcName()",
+        "topic": "Functions"
+    },
+    {
+        "question": "Which keyword is used to return a value from a function?",
+        "options": [
+            "send",
+            "give",
+            "return",
+            "yield"
+        ],
+        "answer": "return",
+        "topic": "Functions"
+    },
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": [
+            "function",
+            "class",
+            "object",
+            "def"
+        ],
+        "answer": "class",
+        "topic": "OOPs"
+    },
+    {
+        "question": "What is 'self' in Python classes?",
+        "options": [
+            "A keyword",
+            "Reference to object",
+            "Class name",
+            "None"
+        ],
+        "answer": "Reference to object",
+        "topic": "OOPs"
+    },
+    {
+        "question": "What is the process of creating an instance of a class called?",
+        "options": [
+            "Instantiation",
+            "Initialization",
+            "Inheritance",
+            "Polymorphism"
+        ],
+        "answer": "Instantiation",
+        "topic": "OOPs"
+    }
+]

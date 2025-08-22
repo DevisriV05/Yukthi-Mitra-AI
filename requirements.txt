@@ -1,0 +1,17 @@
+Python libraries to be installed to run this project.
+
+-> streamlit
+-> google-generativeai
+-> matplotlib
+-> OS 
+-> JSON
+-> uuid
+
+
+Technologies Used:
+
+-> Backend & Logic: python
+-> Frontend & UI: Streamlit
+-> Visualization: Matplotlib (bar charts and doughnut charts)
+-> AI Chatbot: Google Gemini API
+-> Data Storage: JSON files for user profiles, questions, and study materials

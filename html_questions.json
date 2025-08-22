@@ -1,0 +1,211 @@
+[
+    {
+        "question": "HTML stands for:",
+        "options": [
+            "Hyperlinks and Text Markup Language",
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlink Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which tag is used for the largest heading?",
+        "options": [
+            "<h6>",
+            "<heading>",
+            "<h1>",
+            "<h3>"
+        ],
+        "answer": "<h1>",
+        "topic": "Headings"
+    },
+    {
+        "question": "Which HTML element is used to define a paragraph?",
+        "options": [
+            "<p>",
+            "<pre>",
+            "<text>",
+            "<para>"
+        ],
+        "answer": "<p>",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which attribute is used to provide alternative text for an image?",
+        "options": [
+            "alt",
+            "src",
+            "title",
+            "href"
+        ],
+        "answer": "alt",
+        "topic": "Attributes"
+    },
+    {
+        "question": "The correct HTML tag for inserting a line break is:",
+        "options": [
+            "<lb>",
+            "<br>",
+            "<break>",
+            "</br>"
+        ],
+        "answer": "<br>",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which element is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "<a>",
+        "topic": "Links"
+    },
+    {
+        "question": "Which tag defines an unordered list?",
+        "options": [
+            "<ol>",
+            "<ul>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>",
+        "topic": "Lists"
+    },
+    {
+        "question": "Each item in a list is defined using:",
+        "options": [
+            "<item>",
+            "<list>",
+            "<li>",
+            "<il>"
+        ],
+        "answer": "<li>",
+        "topic": "Lists"
+    },
+    {
+        "question": "Which attribute specifies the path to an image?",
+        "options": [
+            "href",
+            "link",
+            "src",
+            "path"
+        ],
+        "answer": "src",
+        "topic": "Images"
+    },
+    {
+        "question": "Which tag is used to display an image?",
+        "options": [
+            "<pic>",
+            "<img>",
+            "<image>",
+            "<src>"
+        ],
+        "answer": "<img>",
+        "topic": "Images"
+    },
+    {
+        "question": "Which HTML element is used to create a text input field?",
+        "options": [
+            "<input>",
+            "<textarea>",
+            "<text>",
+            "<form>"
+        ],
+        "answer": "<input>",
+        "topic": "Forms"
+    },
+    {
+        "question": "What type of form control is used for multiline text?",
+        "options": [
+            "<input type='text'>",
+            "<textarea>",
+            "<input type='area'>",
+            "<textbox>"
+        ],
+        "answer": "<textarea>",
+        "topic": "Forms"
+    },
+    {
+        "question": "Which tag represents a section of navigation links?",
+        "options": [
+            "<footer>",
+            "<section>",
+            "<nav>",
+            "<main>"
+        ],
+        "answer": "<nav>",
+        "topic": "Semantic"
+    },
+    {
+        "question": "Which HTML5 element defines important text?",
+        "options": [
+            "<strong>",
+            "<b>",
+            "<em>",
+            "<i>"
+        ],
+        "answer": "<strong>",
+        "topic": "Semantic"
+    },
+    {
+        "question": "Which tag is used to define a table row?",
+        "options": [
+            "<tr>",
+            "<th>",
+            "<td>",
+            "<table>"
+        ],
+        "answer": "<tr>",
+        "topic": "Table"
+    },
+    {
+        "question": "The table header cells are defined using which tag?",
+        "options": [
+            "<td>",
+            "<th>",
+            "<tab>",
+            "<header>"
+        ],
+        "answer": "<th>",
+        "topic": "Table"
+    },
+    {
+        "question": "Which doctype is used for HTML5?",
+        "options": [
+            "<!DOCTYPE HTML5>",
+            "<!HTML>",
+            "<!DOCTYPE html>",
+            "<!DOCTYPE>"
+        ],
+        "answer": "<!DOCTYPE html>",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which tag is used to group content together in a block?",
+        "options": [
+            "<span>",
+            "<div>",
+            "<group>",
+            "<content>"
+        ],
+        "answer": "<div>",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which tag is used to define the title of the document?",
+        "options": [
+            "<header>",
+            "<title>",
+            "<head>",
+            "<meta>"
+        ],
+        "answer": "<title>",
+        "topic": "Basics"
+    }
+]

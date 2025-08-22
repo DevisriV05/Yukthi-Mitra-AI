@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Which symbol is used to end a statement in C?",
+        "options": [
+            ";",
+            ":",
+            ".",
+            ","
+        ],
+        "answer": ";",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which of the following is the correct file extension for C programs?",
+        "options": [
+            ".py",
+            ".c",
+            ".cpp",
+            ".java"
+        ],
+        "answer": ".c",
+        "topic": "Basics"
+    },
+    {
+        "question": "Who is the creator of C language?",
+        "options": [
+            "Bjarne Stroustrup",
+            "Dennis Ritchie",
+            "James Gosling",
+            "Guido van Rossum"
+        ],
+        "answer": "Dennis Ritchie",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which is a floating point data type in C?",
+        "options": [
+            "int",
+            "float",
+            "char",
+            "double"
+        ],
+        "answer": "float",
+        "topic": "Data Types"
+    },
+    {
+        "question": "The size of 'int' type in C is usually:",
+        "options": [
+            "8 bytes",
+            "4 bytes",
+            "2 bytes",
+            "1 byte"
+        ],
+        "answer": "4 bytes",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which of the following is a character data type?",
+        "options": [
+            "char",
+            "int",
+            "float",
+            "void"
+        ],
+        "answer": "char",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which is the correct way to declare an array in C?",
+        "options": [
+            "int arr[5];",
+            "arr int[5];",
+            "array int(5);",
+            "int arr;"
+        ],
+        "answer": "int arr[5];",
+        "topic": "Arrays"
+    },
+    {
+        "question": "Arrays in C are:",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous",
+            "Objects",
+            "Structures"
+        ],
+        "answer": "Homogeneous",
+        "topic": "Arrays"
+    },
+    {
+        "question": "Which loop checks the condition after executing the loop body?",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "if"
+        ],
+        "answer": "do-while",
+        "topic": "Loops"
+    },
+    {
+        "question": "Which keyword is used to skip to the next iteration in C loops?",
+        "options": [
+            "break",
+            "continue",
+            "skip",
+            "pass"
+        ],
+        "answer": "continue",
+        "topic": "Loops"
+    },
+    {
+        "question": "What symbol is used to declare a pointer?",
+        "options": [
+            "*",
+            "&",
+            "$",
+            "#"
+        ],
+        "answer": "*",
+        "topic": "Pointers"
+    },
+    {
+        "question": "Which operator is used to access the value at the address pointed by a pointer?",
+        "options": [
+            "*",
+            "&",
+            "%",
+            "@"
+        ],
+        "answer": "*",
+        "topic": "Pointers"
+    },
+    {
+        "question": "Which keyword is used to return a value from a function?",
+        "options": [
+            "return",
+            "send",
+            "yield",
+            "give"
+        ],
+        "answer": "return",
+        "topic": "Functions"
+    },
+    {
+        "question": "Which of these is a correct function signature?",
+        "options": [
+            "void func()",
+            "func void()",
+            "function void",
+            "void ()func"
+        ],
+        "answer": "void func()",
+        "topic": "Functions"
+    },
+    {
+        "question": "Which statement is used for decision making in C?",
+        "options": [
+            "if statement",
+            "for statement",
+            "loop",
+            "switch"
+        ],
+        "answer": "if statement",
+        "topic": "Conditionals"
+    },
+    {
+        "question": "Which keyword is used to exit a loop in C?",
+        "options": [
+            "exit",
+            "return",
+            "break",
+            "stop"
+        ],
+        "answer": "break",
+        "topic": "Conditionals"
+    },
+    {
+        "question": "Which keyword is used to define a structure?",
+        "options": [
+            "struct",
+            "class",
+            "record",
+            "union"
+        ],
+        "answer": "struct",
+        "topic": "Struct"
+    },
+    {
+        "question": "Members of a structure are accessed using:",
+        "options": [
+            ". operator",
+            "-> operator",
+            "& operator",
+            "* operator"
+        ],
+        "answer": ". operator",
+        "topic": "Struct"
+    },
+    {
+        "question": "Which function is used to print output on the screen?",
+        "options": [
+            "scanf()",
+            "print()",
+            "printf()",
+            "output()"
+        ],
+        "answer": "printf()",
+        "topic": "Basics"
+    },
+    {
+        "question": "C language is:",
+        "options": [
+            "Object-oriented",
+            "High level",
+            "Procedural",
+            "Functional"
+        ],
+        "answer": "Procedural",
+        "topic": "Basics"
+    }
+]

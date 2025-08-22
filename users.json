@@ -1,0 +1,247 @@
+{
+    "sri": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 4,
+        "last_weak_topics": {
+            "OOP": 3,
+            "Data Types": 1,
+            "Basics": 2
+        },
+        "last_language": "Java"
+    },
+    "shiva": {
+        "selected_language": "C",
+        "selected_level": "Beginner",
+        "last_score": 8,
+        "last_weak_topics": {
+            "Struct": 1,
+            "Pointers": 1
+        },
+        "last_language": "C"
+    },
+    "Amulya": {
+        "selected_language": "Python",
+        "selected_level": "Intermediate",
+        "last_score": 2,
+        "last_weak_topics": {
+            "String": 2,
+            "Data Types": 1,
+            "Basics": 2,
+            "Functions": 2,
+            "List": 1
+        },
+        "last_language": "Python"
+    },
+    "mouli": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 6,
+        "last_weak_topics": {
+            "Links": 1,
+            "Forms": 1,
+            "Basics": 1,
+            "Semantic": 1
+        },
+        "last_language": "HTML"
+    },
+    "Arjun": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 5,
+        "last_weak_topics": {
+            "OOP": 4,
+            "Basics": 1
+        },
+        "last_language": "Java"
+    },
+    "Abhi": {
+        "selected_language": "Java",
+        "selected_level": "Intermediate",
+        "last_score": 4,
+        "last_weak_topics": {
+            "Data Types": 1,
+            "OOP": 2,
+            "Basics": 1,
+            "Loops": 1,
+            "Methods": 1
+        },
+        "last_language": "Java"
+    },
+    "sita": {
+        "selected_language": "Python",
+        "selected_level": "Beginner"
+    },
+    "mitra": {
+        "selected_language": "CSS",
+        "selected_level": "Intermediate",
+        "last_score": 2,
+        "last_weak_topics": {
+            "String": 1,
+            "Data Types": 1,
+            "Functions": 2,
+            "Tuple": 1,
+            "Set": 1,
+            "Basics": 2
+        },
+        "last_language": "Python",
+        "last_level": "Beginner"
+    },
+    "Srinivasrao": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 2,
+        "last_weak_topics": {
+            "Images": 2,
+            "Table": 2,
+            "Basics": 3,
+            "Lists": 1
+        },
+        "last_language": "HTML",
+        "last_level": "Intermediate"
+    },
+    "Renu": {
+        "selected_language": "Python",
+        "selected_level": "Intermediate",
+        "last_score": 1,
+        "last_weak_topics": {
+            "Basics": 4,
+            "Lists": 1,
+            "Forms": 1,
+            "Semantic": 1,
+            "Table": 1,
+            "Headings": 1
+        },
+        "last_language": "HTML",
+        "last_level": "Advanced"
+    },
+    "jay": {
+        "selected_language": "Python",
+        "selected_level": "Beginner"
+    },
+    "gayi": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 6,
+        "last_weak_topics": {
+            "Basics": 2,
+            "Arrays": 1,
+            "Loops": 1
+        },
+        "last_language": "C",
+        "last_level": "Beginner"
+    },
+    "Vinnu": {
+        "selected_language": "Java",
+        "selected_level": "Beginner"
+    },
+    "Devisri": {
+        "selected_language": "Python",
+        "selected_level": "Intermediate",
+        "last_score": 0,
+        "last_weak_topics": {},
+        "last_language": "Python",
+        "last_level": "Beginner"
+    },
+    "Mouli": {
+        "selected_language": "HTML",
+        "selected_level": "Beginner",
+        "last_score": 3,
+        "last_weak_topics": {
+            "Forms": 1,
+            "Basics": 3,
+            "Lists": 2,
+            "Images": 1
+        },
+        "last_language": "HTML",
+        "last_level": "Beginner"
+    },
+    "Srihari": {
+        "selected_language": "JavaScript",
+        "selected_level": "Intermediate"
+    },
+    "N": {
+        "selected_language": "C",
+        "selected_level": "Beginner"
+    },
+    "gayathri": {
+        "selected_language": "Python",
+        "selected_level": "Beginner"
+    },
+    "ganesh": {
+        "selected_language": "Python",
+        "selected_level": "Beginner",
+        "last_score": 5,
+        "last_weak_topics": {
+            "Selectors": 1,
+            "Pseudo-elements": 1,
+            "Responsive Design": 1,
+            "Cascading": 1,
+            "Specificity and Importance": 1
+        },
+        "last_language": "CSS",
+        "last_level": "Advanced"
+    },
+    "Vinuthna": {
+        "selected_language": "HTML",
+        "selected_level": "Beginner",
+        "last_score": 5,
+        "last_weak_topics": {
+            "Headings": 1,
+            "Paragraphs": 1,
+            "Lists": 1,
+            "Hyperlinks": 1,
+            "Text Formatting": 1
+        },
+        "last_language": "HTML",
+        "last_level": "Beginner"
+    },
+    "vignesh": {
+        "selected_language": "Java",
+        "selected_level": "Intermediate",
+        "last_score": 2,
+        "last_weak_topics": {
+            "Object-Oriented Programming": 2,
+            "Serialization": 1,
+            "Collections": 1,
+            "Exception Handling": 1,
+            "Data Types": 1,
+            "String Manipulation": 1,
+            "Design Patterns": 1
+        },
+        "last_language": "Java",
+        "last_level": "Intermediate"
+    },
+    "guptha": {
+        "selected_language": "Python",
+        "selected_level": "Intermediate",
+        "last_score": 4,
+        "last_weak_topics": {
+            "Object-Oriented Programming": 2,
+            "Functions": 1,
+            "Data Structures": 1,
+            "File Handling": 1,
+            "List Comprehension": 1
+        },
+        "last_language": "Python",
+        "last_level": "Intermediate"
+    },
+    "rguptha": {
+        "selected_language": "Python",
+        "selected_level": "Advanced",
+        "last_score": 3,
+        "last_weak_topics": {
+            "Object-Oriented Programming": 2,
+            "Iterators and Generators": 1,
+            "Concurrency": 2,
+            "Modules": 1,
+            "Context Managers": 1
+        },
+        "last_language": "Python",
+        "last_level": "Advanced"
+    },
+    "Hari": {
+        "selected_language": "Java",
+        "selected_level": "Advanced"
+    }
+}

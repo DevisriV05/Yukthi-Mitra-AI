@@ -1,0 +1,211 @@
+[
+    {
+        "question": "JavaScript is a ___ scripting language.",
+        "options": [
+            "Server-side",
+            "Client-side",
+            "Mid-side",
+            "None"
+        ],
+        "answer": "Client-side",
+        "topic": "Basics"
+    },
+    {
+        "question": "Which symbol is used for single line comments in JavaScript?",
+        "options": [
+            "/* */",
+            "<!-- -->",
+            "//",
+            "#"
+        ],
+        "answer": "//",
+        "topic": "Basics"
+    },
+    {
+        "question": "What is correct syntax to declare a variable?",
+        "options": [
+            "var x;",
+            "int x;",
+            "let x:",
+            "declare x"
+        ],
+        "answer": "var x;",
+        "topic": "Variables"
+    },
+    {
+        "question": "Which of the following is NOT a JavaScript data type?",
+        "options": [
+            "String",
+            "Number",
+            "Boolean",
+            "Character"
+        ],
+        "answer": "Character",
+        "topic": "Data Types"
+    },
+    {
+        "question": "How do you check the type of a variable in JS?",
+        "options": [
+            "typeof",
+            "type()",
+            "check()",
+            "kindof"
+        ],
+        "answer": "typeof",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which keyword declares a constant?",
+        "options": [
+            "let",
+            "var",
+            "const",
+            "constant"
+        ],
+        "answer": "const",
+        "topic": "Variables"
+    },
+    {
+        "question": "How do you define an array in JavaScript?",
+        "options": [
+            "()",
+            "{}",
+            "[]",
+            "<>"
+        ],
+        "answer": "[]",
+        "topic": "Arrays"
+    },
+    {
+        "question": "How do you access the 2nd element of an array?",
+        "options": [
+            "arr(1)",
+            "arr[1]",
+            "arr{1}",
+            "arr<1>"
+        ],
+        "answer": "arr[1]",
+        "topic": "Arrays"
+    },
+    {
+        "question": "What is used to define a key-value pair in JS?",
+        "options": [
+            "List",
+            "Array",
+            "Object",
+            "Tuple"
+        ],
+        "answer": "Object",
+        "topic": "Objects"
+    },
+    {
+        "question": "Which keyword is used to create a function?",
+        "options": [
+            "function",
+            "func",
+            "method",
+            "def"
+        ],
+        "answer": "function",
+        "topic": "Functions"
+    },
+    {
+        "question": "Arrow functions were introduced in:",
+        "options": [
+            "ES5",
+            "ES6",
+            "ES7",
+            "ES4"
+        ],
+        "answer": "ES6",
+        "topic": "Functions"
+    },
+    {
+        "question": "How to call a function named hello?",
+        "options": [
+            "call hello()",
+            "hello()",
+            "execute hello",
+            "hello"
+        ],
+        "answer": "hello()",
+        "topic": "Functions"
+    },
+    {
+        "question": "Which operator is used for strict equality?",
+        "options": [
+            "==",
+            "=",
+            "===",
+            "!=="
+        ],
+        "answer": "===",
+        "topic": "Conditionals"
+    },
+    {
+        "question": "Which statement is used for decision making?",
+        "options": [
+            "switch",
+            "if",
+            "for",
+            "loop"
+        ],
+        "answer": "if",
+        "topic": "Conditionals"
+    },
+    {
+        "question": "Which method is used to select an element by ID?",
+        "options": [
+            "getElementByName",
+            "getElementById",
+            "select()",
+            "queryId()"
+        ],
+        "answer": "getElementById",
+        "topic": "DOM"
+    },
+    {
+        "question": "Which keyword refers to the current object?",
+        "options": [
+            "that",
+            "self",
+            "this",
+            "obj"
+        ],
+        "answer": "this",
+        "topic": "OOP"
+    },
+    {
+        "question": "What will console.log(typeof NaN) return?",
+        "options": [
+            "number",
+            "NaN",
+            "undefined",
+            "string"
+        ],
+        "answer": "number",
+        "topic": "Data Types"
+    },
+    {
+        "question": "Which looping statement is used to iterate over array indices?",
+        "options": [
+            "while",
+            "for",
+            "for...of",
+            "for...in"
+        ],
+        "answer": "for...in",
+        "topic": "Loops"
+    },
+    {
+        "question": "How to write an alert box in JS?",
+        "options": [
+            "alert()",
+            "msgBox()",
+            "popup()",
+            "show()"
+        ],
+        "answer": "alert()",
+        "topic": "Basics"
+    }
+]

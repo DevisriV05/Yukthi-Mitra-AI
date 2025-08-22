@@ -1,0 +1,254 @@
+{
+  "Python": {
+    "Basics": {
+      "Weblinks": [
+        "https://www.w3schools.com/python/python_syntax.asp",
+        "https://www.tpointtech.com/python-syntax"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=n0zEsDkwwQs&list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw&index=2",
+        " https://www.youtube.com/watch?v=41qgdwd3zAg&list=PLS1QulWo1RIaJECMeUT4LFwJ-ghgoSH6n"
+      ]
+    },
+    "Data Types": {
+      "Weblinks": [
+        "https://www.w3schools.com/python/python_datatypes.asp",
+        "https://www.tpointtech.com/python-data-types"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=Q8H9A7T8tbo",
+        " https://www.youtube.com/watch?v=TTepNRy0wj8 "
+      ]
+    },
+    "Functions": {
+      "Weblinks": [
+        "https://www.w3schools.com/python/python_functions.asp",
+        "https://www.tpointtech.com/python-functions"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=FCBiug_WKXs",
+        "https://www.youtube.com/watch?v=eezLhJ5oGYg "
+      ]
+    },
+    "OOPs": {
+      "Weblinks": [
+        "https://www.w3schools.com/python/python_datatypes.asp",
+        "https://realpython.com/python-data-types/"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=khKv-8q7YmY",
+        "https://www.youtube.com/watch?v=wgkG8U_7UxY"
+      ]
+    }
+  },
+  "Java": {
+    "Basics": {
+      "Weblinks": [
+        "https://www.w3schools.com/java/java_syntax.asp",
+        "https://www.tpointtech.com/java-hello-world-program"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=wMAMsih8BQE",
+        "https://www.youtube.com/watch?v=VR9IZcPOijY "
+      ]
+    },
+    "Data types": {
+      "Weblinks": [
+        "https://www.w3schools.com/java/java_data_types.asp",
+        "https://www.tpointtech.com/java-data-types"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=RcnWMWptnDk",
+        "https://www.youtube.com/watch?v=Le25I331_yU "
+      ]
+    },
+    "Loops": {
+      "Weblinks": [
+        "https://www.w3schools.com/java/java_for_loop.asp",
+        "https://www.tpointtech.com/java-for-loop"
+      ],
+      "YouTube": [
+        " https://www.youtube.com/watch?v=NLpDOqGPT3U",
+        " https://www.youtube.com/watch?v=gu6Agiy2xBg "
+      ]
+    },
+    "Arrays": {
+      "Weblinks": [
+        "https://www.w3schools.com/java/java_arrays.asp",
+        "https://www.tpointtech.com/java-arrays"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=RMpjvycSZW0",
+        "https://www.youtube.com/watch?v=239ubH043lI "
+      ]
+    }
+  },
+  "C": {
+    "Basics": {
+      "Weblinks": [
+        "https://www.w3schools.com/c/c_syntax.php",
+        "https://www.tpointtech.com/first-c-program"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=DOHD-8smkTs&t=902s",
+        "https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S05"
+      ]
+    },
+    "Data types": {
+      "Weblinks": [
+        "https://www.w3schools.com/c/c_data_types.php",
+        "https://www.tpointtech.com/data-types-in-c"
+      ],
+      "YouTube": [
+        " https://www.youtube.com/watch?v=o1w1XWuk2v8",
+        "https://www.youtube.com/watch?v=NyT9vvSBoeo "
+      ]
+    },
+    "Loops": {
+      "Weblinks": [
+        "https://www.w3schools.com/c/c_for_loop.php",
+        "https://www.tpointtech.com/c-loop"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=t2hXlhjEW-c",
+        "https://www.youtube.com/watch?v=BpeIfof3VBk "
+      ]
+    },
+    "Pointers": {
+      "Weblinks": [
+        "https://www.w3schools.com/c/c_pointers.php",
+        "https://www.tpointtech.com/c-pointers"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=ZdQj0ivvfNs",
+        "https://www.youtube.com/watch?v=IuDJeGqEZ3A"
+      ]
+    }
+  },
+  "HTML": {
+    "Basics": {
+      "Weblinks": [
+        "https://www.w3schools.com/html/html_basic.asp",
+        "https://www.tpointtech.com/what-is-html"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=lGKGDxwvrEQ&t=1866s",
+        "https://www.youtube.com/watch?v=3DZ13z3hp6E&list=PLL3zPWMHgpV0ZpmYMkqejFjKKnIgww-jQ"
+      ]
+    },
+    "Elements": {
+      "Weblinks": [
+        "https://www.w3schools.com/html/html_elements.asp",
+        "https://www.tpointtech.com/html-elements"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=59WriAH3zOc",
+        "https://www.youtube.com/watch?v=XXrpsQqAlIQ"
+      ]
+    },
+    "Images": {
+      "Weblinks": [
+        "https://www.w3schools.com/html/html_images.asp",
+        "https://www.tpointtech.com/html-image"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=4ekHGJEwJbA",
+        "https://www.youtube.com/watch?v=Hh_se2Zqsdk"
+      ]
+    },
+    "Forms": {
+      "Weblinks": [
+        "https://www.w3schools.com/html/html_formatting.asp",
+        "https://www.tpointtech.com/html-form"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=3QFDIkxB-aY",
+        "https://www.youtube.com/watch?v=fNcJuPIZ2WE"
+      ]
+    }
+  },
+  "CSS": {
+    "Basics": {
+      "Weblinks": [
+        "https://www.w3schools.com/css/css_syntax.asp",
+        "https://www.tpointtech.com/css-syntax"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=f7ypRyxw6Yw",
+        "https://www.youtube.com/watch?v=1PnVor36_40&t=25s "
+      ]
+    },
+    "Properties": {
+      "Weblinks": [
+        "https://www.w3schools.com/css/css3_property.asp",
+        "https://www.tpointtech.com/css-content-property"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/shorts/iVkggf8hNw4",
+        "https://www.youtube.com/watch?v=9T8uxp5hQ60 "
+      ]
+    },
+    "Selectors": {
+      "Weblinks": [
+        "https://www.w3schools.com/css/css_selectors.asp",
+        "https://www.tpointtech.com/css-selector"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=KYGH4f5YLEs",
+        "https://www.youtube.com/watch?v=ZNskBxLVOfs"
+      ]
+    },
+    "Font": {
+      "Weblinks": [
+        "https://www.w3schools.com/css/css_font.asp",
+        "https://www.tpointtech.com/css-font"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=Dvu6hnmYemc",
+        "https://www.youtube.com/watch?v=MnyCbILmtOY"
+      ]
+    }
+  },
+  "JavaScript": {
+    "Basics / Variables": {
+      "Weblinks": [
+        "https://www.w3schools.com/js/js_intro.asp",
+        "https://www.tpointtech.com/javascript-tutorial"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=U4rOQdCL9Cg&list=PLZca26lQcxTplSgALWexhmuE6L1d3oDm5",
+        "https://www.youtube.com/watch?v=xwKbtUP87Dk"
+      ]
+    },
+    "Datatypes": {
+      "Weblinks": [
+        "https://www.w3schools.com/js/js_datatypes.asp",
+        "https://www.tpointtech.com/javascript-data-types"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=prRKO53nNbE",
+        "https://www.youtube.com/watch?v=nCwQY8inRvU"
+      ]
+    },
+    "Arrays": {
+      "Weblinks": [
+        "https://www.w3schools.com/js/js_array_methods.asp",
+        "https://www.tpointtech.com/javascript-array"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=jTYrbV-6xyY",
+        "https://www.youtube.com/watch?v=RVxuGCWZ_8E&t=42s"
+      ]
+    },
+    "Functions": {
+      "Weblinks": [
+        "https://www.w3schools.com/js/js_function_definition.asp",
+        "https://www.tpointtech.com/javascript-function"
+      ],
+      "YouTube": [
+        "https://www.youtube.com/watch?v=J8t4lb9qPNw",
+        "https://www.youtube.com/watch?v=j1laALb8OVM"
+      ]
+    }
+  }
+}
